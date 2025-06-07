@@ -364,3 +364,4 @@ generated = model.generate(context, max_new_tokens=1000)
 
 # Decode token IDs to characters
 print(decode(generated[0].tolist()))
+

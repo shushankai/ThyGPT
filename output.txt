@@ -1,0 +1,83 @@
+Loading dataset...
+Initializing model...
+Model parameters: 10.79M
+Starting training...
+Step 0: Train loss 4.2849, Val loss 4.2819
+Step 200: Train loss 2.4115, Val loss 2.4334
+Step 400: Train loss 2.1400, Val loss 2.1913
+Step 600: Train loss 1.8799, Val loss 1.9975
+Step 800: Train loss 1.7101, Val loss 1.8686
+Step 1000: Train loss 1.5946, Val loss 1.7664
+Step 1200: Train loss 1.5202, Val loss 1.7094
+Step 1400: Train loss 1.4564, Val loss 1.6590
+Step 1600: Train loss 1.4105, Val loss 1.6231
+Step 1800: Train loss 1.3754, Val loss 1.6003
+Step 2000: Train loss 1.3420, Val loss 1.5737
+Step 2200: Train loss 1.3135, Val loss 1.5531
+Step 2400: Train loss 1.2880, Val loss 1.5360
+Step 2600: Train loss 1.2651, Val loss 1.5241
+Step 2800: Train loss 1.2460, Val loss 1.5058
+Step 3000: Train loss 1.2287, Val loss 1.5056
+Step 3200: Train loss 1.2058, Val loss 1.4987
+Step 3400: Train loss 1.1917, Val loss 1.4853
+Step 3600: Train loss 1.1752, Val loss 1.4891
+Step 3800: Train loss 1.1583, Val loss 1.4923
+Step 4000: Train loss 1.1479, Val loss 1.4790
+Step 4200: Train loss 1.1304, Val loss 1.4748
+Step 4400: Train loss 1.1137, Val loss 1.4699
+Step 4600: Train loss 1.1022, Val loss 1.4745
+Step 4800: Train loss 1.0871, Val loss 1.4841
+
+Generating text...
+
+
+JULIET:
+Good morrow, I have straight to catch the people.
+
+ROMEO:
+O, with dishonour and break him to entertain me,
+O, that hath should not seen to have seen the sun.
+
+ROMEO:
+Where is the time were blest for such life,
+And to him beholding his worthy souls.
+
+ROMEO:
+Then, he should be spoke to Aufidius;
+My first, a potion thing that he saids
+Will stay and my life.
+
+JULIET:
+O, Tranio, Menenius, with seconding men
+For it our happier's voice.
+
+JULIET:
+The last, for ever throw may drown it.
+Pray you, my lord,
+For Mantua, my lord, I hate fear'd it in your brother,
+But not still undertake you of who is:
+That good Bohemia, you are more petition.
+
+PAULINA:
+As I mistress and leans as those moves:
+Besides, I mean, my chamberlain!
+
+CAMILLO:
+Come on the envy gentleman is found?
+
+FLORIZEL:
+Nay, good night.
+
+AUTOLYCUS:
+Yet like one full of me.
+
+ANCA:
+Well, madam.
+
+FLORIZEL:
+To be king:
+'Tis time say, for that thou shouldst not so.
+
+PAULINA:
+See your honour,
+Shower me to see they would have the mayor
